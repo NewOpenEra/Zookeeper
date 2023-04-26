@@ -134,9 +134,4 @@ while run:
         print("See you later!")
     else:
         print(animals[int(input_data)])
-
-#Some New Notes to test Github
-#And some extras
-#And finally Some more...
-#well...
-
+        
