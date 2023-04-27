@@ -134,4 +134,3 @@ while run:
         print("See you later!")
     else:
         print(animals[int(input_data)])
-        
